@@ -1,1 +1,2 @@
-¡™£¢∞§¶•ªº–≠`œ∑´®†\¨ˆøπ“‘«åß∂ƒ©˙∆˚¬…æåß∂ƒ©˙∆˚¬…æÅÍÎÏ©ÓÔ˚Ò…ÆŒ∑´®†Á¨ˆØ∏“Æ‘«ÅÍ≈ÎΩ≈Ç√ı˜Â≤≥≥©ÓÔÓ˚Ó©ÏÎÏÍÔ´Î˚®¨ÓÁ
+This repo is for my Systems Programming Concepts project and assignments.
+README updated April 4, 2022.
